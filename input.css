@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+.links{
+    @apply px-4 cursor-pointer hover:text-purple-400 hover:border-b-4 border-indigo-500 hover:rounded-b-sm;
+}
+@tailwind utilities;
